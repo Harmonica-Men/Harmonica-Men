@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harmonica-Men
 - 👀 I’m interested in ... Black Holes
-- 🌱 I’m currently learning ... Agile
+- 🌱 I’m currently learning ... Django
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... filip@vanelslande.com
 
