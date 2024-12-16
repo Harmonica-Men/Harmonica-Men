@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harmonica-Men
 - 👀 I’m interested in ... Black Holes
 - 🌱 I’m currently learning ... Django - E-commerce
-- 💞️ I’m looking to collaborate on ... PP5
+- 💞️ I’m looking to collaborate on ... Smart Contracts
 - 📫 How to reach me ... filip@vanelslande.com
 
 <!---
